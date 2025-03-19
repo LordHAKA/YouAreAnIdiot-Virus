@@ -13,7 +13,7 @@ order to get the "full experience".**
 
 And also you may want to turn down the volume!
 
-When you are ready, [Click Here](https://virus-blond.vercel.app/main/index) to visit
+When you are ready, [Click Here](https://virus-blond.vercel.app/main/VIRUS.html) to visit
 the website
 
 <br>
